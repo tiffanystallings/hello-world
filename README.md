@@ -2,7 +2,7 @@
 Learning to use GitHub!
 
 Hopefully some day my GitHub will be loaded with projects and contributions and such.
-For now, enjoy this picture of an ASCII cat on a bicycle.
+For now, enjoy this picture of an ASCII cat on a bicycle. (only visible in edit mode)
 
 <!--
 ________________
